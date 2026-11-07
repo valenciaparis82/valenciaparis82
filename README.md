@@ -1,16 +1,33 @@
-## Hi there 👋
+# ¡Hola! Soy Miguel A 👋
 
-<!--
-**valenciaparis82/valenciaparis82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desarrollador de software en formación | Orientado a Backend
 
-Here are some ideas to get you started:
+Estoy construyendo mi nueva trayectoria profesional en el desarrollo de software, después de años de experiencia en el ámbito militar y en la gestión de negocios de hostelería.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me interesa especialmente el **desarrollo backend**, la lógica de negocio, las APIs y la arquitectura de software.
+
+Actualmente combino el aprendizaje de programación con el desarrollo de proyectos propios para resolver problemas reales.
+
+### 🛠️ Tecnologías y herramientas
+
+- **Lenguajes:** JavaScript, TypeScript y Python
+- **Desarrollo web:** HTML, CSS y Vite
+- **Herramientas:** Git, GitHub, VS Code y Linux (WSL)
+- **Aprendiendo:** Clean Architecture, testing y desarrollo backend
+
+### 🚀 Proyecto destacado
+
+**ESSENZA Control — Gestión de costes y rentabilidad**
+
+Aplicación web desarrollada para gestionar ingredientes, recetas, costes, márgenes de beneficio y simulaciones de precios en negocios de hostelería.
+
+- Aplicación: https://essenza-control.vercel.app
+- Repositorios: https://github.com/valenciaparis82
+
+### 🎯 Mi objetivo
+
+Seguir mejorando como desarrollador, construir proyectos útiles y dar el salto profesional al sector tecnológico, especialmente en puestos de desarrollo backend.
+
+### 📫 Contacto
+
+Puedes encontrarme en LinkedIn o explorar mis proyectos aquí, en GitHub.
